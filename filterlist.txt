@@ -1,0 +1,10 @@
+! Block NBA shit
+youtube.com##ytd-rich-item-renderer:has-text(Purchased)
+youtube.com##ytd-rich-item-renderer:has(ytd-channel-name:has-text(NBA))
+
+! Hide anything with a “Mix” badge
+youtube.com##ytd-rich-item-renderer:has(.yt-badge-shape__text:has-text(Mix))
+youtube.com##ytd-rich-item-renderer:has-text(Mix -)
+youtube.com##ytd-video-renderer:has(.yt-badge-shape__text:has-text(Mix))
+youtube.com##ytd-video-renderer:has-text(Mix -)
+youtube.com##ytd-rich-item-renderer:has-text(My Mix)
