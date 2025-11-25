@@ -11,3 +11,12 @@ youtube.com##ytd-rich-item-renderer:has-text(My Mix)
 
 ! Block memebers only videos on YouTube.
 youtube.com##yt-lockup-view-model:has-text("Members only")
+
+# Block LinkedIn Premium Ads, News, and other stuff.
+www.linkedin.com##.link-without-visited-state.global-nav__primary-link.global-nav__primary-link--premium-upsell.global-nav__spotlight-premium-upsell.premium-upsell-link--truncate.premium-upsell-link--margin
+www.linkedin.com##.artdeco-card.overflow-hidden.ph1.mb2
+www.linkedin.com###feed-news-module
+www.linkedin.com##.scaffold-layout__aside
+www.linkedin.com##div._41d7c0ef.c52ca6c9._59750e0e._2926a17a.bd62f75f._53cadc0f.d37c9a47.ac4a3cce._84051350._32016b0e._6c0c2182._52f9f6b8._28b00e27.b91cd193._4779af74._9d05de19._2b0bf90b._86c0ae8d._34b39356._6042b695._4680ad55:nth-of-type(3)
+www.linkedin.com##.ab56a88b.f7a912ff > ._6c0c2182.feca05d1._4779af74._9d05de19 > li._3bb1a9af.e15aa6d9.fd008f81._8c3d767f:nth-of-type(2) > ._1037cafb._7faa2318._13d6764c._6dd426a9.c7e1cb72._6c0c2182._52f9f6b8.d5191d4a._0ed76a75._9e39ee51._4860df0c.ac194920.f304c9d7._5a674158.f88ec504._13d3caa8.f9d124fd._7b61d5c8
+www.linkedin.com##a:has(button[data-view-name="undo-dismiss-job"])
