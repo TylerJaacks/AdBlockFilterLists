@@ -21,3 +21,4 @@ www.linkedin.com##div._41d7c0ef.c52ca6c9._59750e0e._2926a17a.bd62f75f._53cadc0f.
 www.linkedin.com##.ab56a88b.f7a912ff > ._6c0c2182.feca05d1._4779af74._9d05de19 > li._3bb1a9af.e15aa6d9.fd008f81._8c3d767f:nth-of-type(2) > ._1037cafb._7faa2318._13d6764c._6dd426a9.c7e1cb72._6c0c2182._52f9f6b8.d5191d4a._0ed76a75._9e39ee51._4860df0c.ac194920.f304c9d7._5a674158.f88ec504._13d3caa8.f9d124fd._7b61d5c8
 www.linkedin.com##a:has(button[data-view-name="undo-dismiss-job"])
 www.linkedin.com##div.job-card-list--is-dismissed
+www.linkedin.com##div[class*="job-card-job-posting-card-wrapper--dismissed"]
