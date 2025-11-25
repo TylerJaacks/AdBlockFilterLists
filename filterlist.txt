@@ -12,7 +12,7 @@ youtube.com##ytd-rich-item-renderer:has-text(My Mix)
 ! Block memebers only videos on YouTube.
 youtube.com##yt-lockup-view-model:has-text("Members only")
 
-# Block LinkedIn Premium Ads, News, and other stuff.
+! Block LinkedIn Premium Ads, News, and other stuff.
 www.linkedin.com##.link-without-visited-state.global-nav__primary-link.global-nav__primary-link--premium-upsell.global-nav__spotlight-premium-upsell.premium-upsell-link--truncate.premium-upsell-link--margin
 www.linkedin.com##.artdeco-card.overflow-hidden.ph1.mb2
 www.linkedin.com###feed-news-module
