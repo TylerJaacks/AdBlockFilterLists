@@ -22,3 +22,6 @@ www.linkedin.com##.ab56a88b.f7a912ff > ._6c0c2182.feca05d1._4779af74._9d05de19 >
 www.linkedin.com##a:has(button[data-view-name="undo-dismiss-job"])
 www.linkedin.com##div.job-card-list--is-dismissed
 www.linkedin.com##div[class*="job-card-job-posting-card-wrapper--dismissed"]
+
+! CurseForge Premium button.
+curseforge.com##a.premium-button-container
