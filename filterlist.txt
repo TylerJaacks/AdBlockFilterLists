@@ -27,4 +27,4 @@ www.linkedin.com##div[class*="job-card-job-posting-card-wrapper--dismissed"]
 curseforge.com##a.premium-button-container
 
 ! Stop Pateron from telling they unpublished my fucking page.
-##div#banner-manager:has(span:has-text(We unpublished your page due to inactivity.))
+www.patreon.com##div#banner-manager:has(span:has-text(We unpublished your page due to inactivity.))
