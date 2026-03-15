@@ -30,7 +30,7 @@ curseforge.com##a.premium-button-container
 patreon.com##div[role="alert"]:has-text(unpublished)
 
 ! Block "No Ads. Start Free Trial" subscription CTA
-thestreet.com##a[href*="/subscribe?tpcc=mktg-home-mainmenu-subscribe_testA"]
+weather.com##a[href*="/subscribe?tpcc=mktg-home-mainmenu-subscribe_testA"]
 
 ! Block "Sign In for fewer ads" button
-thestreet.com##div[data-testid="header-profile"]:has(a[href="/login"] > button)
+weather.com##div[data-testid="header-profile"]:has(a[href="/login"] > button)
