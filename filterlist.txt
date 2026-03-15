@@ -29,11 +29,10 @@ curseforge.com##a.premium-button-container
 ! Stop Pateron from telling they unpublished my fucking page.
 patreon.com##div[role="alert"]:has-text(unpublished)
 
-! Block "No Ads. Start Free Trial" subscription CTA (main menu)
+! Block "No Ads. Start Free Trial" subscription CTA
 weather.com##a[href*="/subscribe?tpcc=mktg-home-mainmenu-subscribe_testA"]
 
 ! Block "Sign In for fewer ads" button
 weather.com##div[data-testid="header-profile"]:has(a[href="/login"] > button)
 
-! Block "No Ads. Start Free Trial" left rail upgrade CTA
 weather.com##li.hidden:has(a[href*="/subscribe/checkout?products=e251f39b-afd7-4ad9-9c87-5e2a8ed63fbb"])
