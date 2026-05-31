@@ -37,3 +37,5 @@ weather.com##div[data-testid="header-profile"]:has(a[href="/login"] > button)
 
 ! Block "No Ads. Start Free Trial" left rail upgrade CTA
 weather.com##a[href*="/subscribe/checkout?products=e251f39b-afd7-4ad9-9c87-5e2a8ed63fbb"]
+
+x.com##[data-testid="Dropdown"] > [role="menuitem"]:has(span:has-text(Send via Chat))
