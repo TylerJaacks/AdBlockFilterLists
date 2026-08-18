@@ -46,3 +46,9 @@ www.ebay.com##.\@container.flex.flex-col.border-subtle.rounded-50.px-300.hp-xl\:
 www.ebay.com##.dp-evo-banner-color-module--homepage-item--container.overflow-hidden.\@container.hp-md\:border-0.hp-md\:border-none.hp-md\:rounded-none.hp-xl\:border-0.hp-xl\:border-none.hp-xl\:rounded-none.hp-xl2\:h-\[436px\].hp-xl2\:border-0.hp-xl2\:border-solid.hp-xl2\:rounded-100 > div.h-full:nth-of-type(1)
 www.ebay.com##.dp-evo-banner-color-module--homepage-item--container.overflow-hidden.\@container.hp-md\:border-0.hp-md\:border-none.hp-md\:rounded-none.hp-xl\:border-0.hp-xl\:border-none.hp-xl\:rounded-none.hp-xl2\:h-\[436px\].hp-xl2\:border-0.hp-xl2\:border-solid.hp-xl2\:rounded-100
 www.ebay.com###dp-live-events-carousel
+
+www.x.com##div.css-175oi2r.r-18u37iz.r-1mmae3n.r-3pj75a.r-13qz1uu.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l:nth-of-type(1)
+www.x.com##div.css-g5y9jx.r-18u37iz.r-1mmae3n.r-3pj75a.r-13qz1uu.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l:nth-of-type(1)
+
+www.ebay.com##.stream-slot
+www.ebay.com##.m-item-card__inline-recs
